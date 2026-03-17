@@ -9,9 +9,10 @@ When I'm not coding, you'll probably find me hanging off a wall 🧗, lifting so
 
 
 
-# Github stats
+![Coding gif](https://media1.tenor.com/m/557GUrcXp14AAAAd/jinx-cat-javascript.gif)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mcuenca96&border_radius=4.6&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+
+# Top Languages
 
 ![mcuenca96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcuenca96&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
