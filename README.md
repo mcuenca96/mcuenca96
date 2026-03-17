@@ -1,12 +1,13 @@
+
 # Hi, I'm Marc 👋
 
-💻 Senior React Developer focused on building modern and scalable web applications.
+Senior React Developer passionate about building modern, scalable web applications that (usually) work on the first try.
 
-⚛️ I enjoy crafting performant architectures, clean component structures, and smooth user experiences.
+When I'm not coding, you'll probably find me hanging off a wall 🧗, lifting something heavy at the gym 🏋️‍♂️, or deep into a videogame like it's a second job. 🎮
 
-🎨 I'm passionate about the entire **frontend ecosystem** — frameworks, tooling, performance, accessibility, and developer experience.
+⚖️ I like to keep life balanced: coding, climbing… or experimenting in the kitchen like it's another side project (with mixed production results).
 
-🚀 Always curious and constantly exploring new technologies, patterns, and ideas to keep improving the way we build for the web.
+
 
 # Github stats
 
