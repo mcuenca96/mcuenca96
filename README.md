@@ -1,18 +1,34 @@
+<h1 align="center">Hi, I'm Marc 👋</h1>
 
-# Hi, I'm Marc 👋
+<table>
+<tr>
+<td width="60%">
 
-Senior React Developer passionate about building modern, scalable web applications that (usually) work on the first try.
+💻 **Senior React Developer** passionate about building modern, scalable web applications that (usually) work on the first try.
 
-When I'm not coding, you'll probably find me hanging off a wall 🧗, lifting something heavy at the gym 🏋️‍♂️, or deep into a videogame like it's a second job. 🎮
+🧗‍♂️ Climbing addict | 🏋️‍♂️ Sometimes gymrat | 🎮 Videogame enthusiast  
+
+When I'm not coding, you'll probably find me hanging off a wall, lifting something heavy, or getting way too invested in a game.
 
 ⚖️ I like to keep life balanced: coding, climbing… or experimenting in the kitchen like it's another side project (with mixed production results).
 
+</td>
+<td width="40%" align="center">
 
+<img src="https://media1.tenor.com/m/557GUrcXp14AAAAd/jinx-cat-javascript.gif" width="250" style="border-radius:10px;"/>
 
-![Coding gif](https://media1.tenor.com/m/557GUrcXp14AAAAd/jinx-cat-javascript.gif)
+</td>
+</tr>
+</table>
 
+---
 
+<p align="center">
+  📊 <b>Top Languages</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcuenca96&layout=compact&theme=radical" />
+</p>
 
-# Top Languages
-
-![mcuenca96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcuenca96&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  🚀 <b>Stats</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mcuenca96&show_icons=true&theme=radical&hide_border=true" />
+</p>
