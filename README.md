@@ -6,7 +6,7 @@
 
 💻 **Senior React Developer** — I build modern, scalable web apps that *usually* work on the first try (and when they don’t, we call it “feature exploration”).
 
-🧗‍♂️ Climbing addict | 🏋️‍♂️ Occasional gymrat | 🎮 Professional button masher  
+🧗‍♂️ Climbing addict | 🏋️‍♂️ Occasional gymrat | 🎮 Professional button smasher  
 
 When I'm not coding, I'm either:
 - Hanging off a wall 🧗‍♂️  
