@@ -16,7 +16,7 @@ When I'm not coding, I'm either:
 ⚖️ I believe in balance: coding, climbing… and turning the kitchen into a **high-risk experimental lab** (results may vary, refunds not available).
 
 ✨ I also built this slightly magical thing:  
-👉 https://the-magician-printer.vercel.app/  
+👉 [https://the-magician-printer.vercel.app/  ](https://themagicianprinter.com/)
 Because sometimes normal projects are too mainstream.
 
 </td>
