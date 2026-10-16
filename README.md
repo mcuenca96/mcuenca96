@@ -22,7 +22,7 @@ Because sometimes normal projects are too mainstream.
 </td>
 <td width="40%" align="center">
 
-<div class="tenor-gif-embed" data-postid="25388494" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/blklzy-javascript-fiesta-party-join-the-js-fiesta-at-blk-lzy-gif-25388494">Blklzy Javascript GIF</a>from <a href="https://tenor.com/search/blklzy-gifs">Blklzy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/QxQa4XB3BN4AAAAC/blklzy-javascript.gif" width="250" style="border-radius:10px;"/>
 
 </td>
 </tr>
