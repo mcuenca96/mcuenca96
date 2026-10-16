@@ -22,7 +22,7 @@ Because sometimes normal projects are too mainstream.
 </td>
 <td width="40%" align="center">
 
-<img src="https://media1.tenor.com/m/557GUrcXp14AAAAd/jinx-cat-javascript.gif" width="250" style="border-radius:10px;"/>
+<img src="https://tenor.com/es/view/blklzy-javascript-fiesta-party-join-the-js-fiesta-at-blk-lzy-gif-25388494" width="250" style="border-radius:10px;"/>
 
 </td>
 </tr>
