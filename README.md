@@ -8,13 +8,6 @@
 
 🧗‍♂️ Climbing addict | 🏋️‍♂️ Occasional gymrat | 🎮 Professional button smasher  
 
-When I'm not coding, I'm either:
-- Hanging off a wall 🧗‍♂️  
-- Lifting heavy things for no practical reason 🏋️‍♂️  
-- Or emotionally recovering from a videogame boss fight 🎮  
-
-⚖️ I believe in balance: coding, climbing… and turning the kitchen into a **high-risk experimental lab** (results may vary, refunds not available).
-
 ✨ I also built this slightly magical thing:  
 👉 [https://themagicianprinter.com/](https://themagicianprinter.com/)
 Because sometimes normal projects are too mainstream.
